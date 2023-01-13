@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cae6dc8d.css",
-    "main.js": "/static/js/main.e4751db1.js",
+    "main.css": "/static/css/main.89655b03.css",
+    "main.js": "/static/js/main.08a830d0.js",
     "static/media/fashionPool.png": "/static/media/fashionPool.cb243138ba534576c6ed.png",
     "static/media/maxFashion.png": "/static/media/maxFashion.15bea0cf65988354f3bb.png",
     "static/media/reactParallax.jpg": "/static/media/reactParallax.6f0d02a0def925fc9d7f.jpg",
@@ -10,6 +10,7 @@
     "static/media/reactSmooth.jpg": "/static/media/reactSmooth.a2ffb0a8d6db6a651603.jpg",
     "static/media/heroImage.jpg": "/static/media/heroImage.29f73580f1abee50b7c9.jpg",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/chakra.png": "/static/media/chakra.d0e5b3b643e2b57e172e.png",
     "static/media/redux.png": "/static/media/redux.4ea2c9105f4e7643b31c.png",
     "static/media/nextjs.png": "/static/media/nextjs.48ddc8121a0fcb543d64.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
@@ -18,11 +19,11 @@
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.cae6dc8d.css.map": "/static/css/main.cae6dc8d.css.map",
-    "main.e4751db1.js.map": "/static/js/main.e4751db1.js.map"
+    "main.89655b03.css.map": "/static/css/main.89655b03.css.map",
+    "main.08a830d0.js.map": "/static/js/main.08a830d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.cae6dc8d.css",
-    "static/js/main.e4751db1.js"
+    "static/css/main.89655b03.css",
+    "static/js/main.08a830d0.js"
   ]
 }
