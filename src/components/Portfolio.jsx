@@ -33,7 +33,7 @@ const Portfolio = () => {
               className="py-8    rounded-bl-[180px] rounded-tr-[190px] duration-1000  group cursor-pointer"
             >
             <p className='px-5 text-base font-semibold lg:text-3xl md:text-xl sm:text-lg '>{title}</p>
-              <div className="flex flex-col items-center justify-between gap-4 px-16 py-8 text-center lg:flex-row sm:flex-col sm:gap-y-8 ring rounded-3xl">
+              <div className="flex flex-col items-center justify-between gap-4 px-16 py-8 text-center lg:flex-row sm:flex-col sm:gap-y-8 border-dotted border-2 border-sky-500 rounded-3xl">
               
                 {/*   <div key={id} className="rounded-lg shadow-md shadow-gray-600">
               <img
@@ -68,7 +68,7 @@ const Portfolio = () => {
                     max-[500px]:group-hover:-scale-[2] lg:group-hover:-scale-150 group-hover:rotate-180 duration-1000  rounded-bl-[90px] group-hover:rounded-[5px]   "
                   />
                 </div>
-                <div className="  sm:w-[75%] lg:w-[25%]   px-6 py-4 rounded-[30px] text-center ring-2 shadow-cyan-500">
+                <div className="  sm:w-[75%] lg:w-[25%]   px-6 py-4 rounded-[30px] text-center  border-double border-2 border-sky-500 shadow-cyan-500">
                   <p className="underline underline-offset-[6px]  font-bold decoration-2 text-xl mb-2">
                     {' '}
                     Summary
@@ -102,14 +102,14 @@ const Portfolio = () => {
                   </div>
                   <div className="grid grid-cols-2 gap-3 px-2 my-5 gap-x-2 ">
                     <div
-                      className="flex justify-center px-4 py-1 text-2xl font-bold rounded-md cursor-pointer ring-2 text-slate-100 shadow-sky-500 hover:shadow-slate-700 "
+                      className="flex justify-center px-4 py-1 text-2xl font-bold rounded-md cursor-pointer  border-dashed border-2 border-sky-500 text-slate-100 shadow-sky-500 hover:shadow-slate-700 "
                       title="Website"
                       onClick={()=>handleDemo(demo)}
                     >
                       <FiExternalLink />
                     </div>
                     <div
-                      className="flex justify-center py-1 text-2xl font-bold rounded-md cursor-pointer hover:shadow-slate-700 x-4 text-slate-100 ring-2 shadow-sky-500"
+                      className="flex justify-center py-1 text-2xl font-bold rounded-md cursor-pointer hover:shadow-slate-700 x-4 text-slate-100 border-dashed border-2 border-sky-500 shadow-sky-500"
                       title="Github"
                       onClick={()=>handleCode(code)}
                     >
