@@ -32,7 +32,7 @@ const Portfolio = () => {
               key={ind}
               className="py-8    rounded-bl-[180px] rounded-tr-[190px] duration-1000  group cursor-pointer"
             >
-            <p className='px-5 text-base font-semibold lg:text-3xl md:text-xl sm:text-lg '>{title}</p>
+            <p className='px-5 text-[24px] font-semibold lg:text-3xl md:text-xl sm:text-lg '>{title}</p>
               <div className="flex flex-col items-center justify-between gap-4 px-16 py-8 text-center lg:flex-row sm:flex-col sm:gap-y-8 border-dotted border-2 border-sky-500 rounded-3xl">
               
                 {/*   <div key={id} className="rounded-lg shadow-md shadow-gray-600">
