@@ -16,7 +16,7 @@ const Home = () => {
         </div>
         <div className="mt-10 ">
           <h2 className=" font-bold text-[24px] text-white sm:text-4xl  min-w-[200px]">
-            I am a Full Stack  Developer
+            I am a Full Stack Web Developer
           </h2>
           <p className="max-w-md sm:text-[24px] py-4 text-gray-500 text-[12px]">
             I am a full stack web developer with excellent knowledge of HTML,
@@ -29,7 +29,7 @@ const Home = () => {
               download
               onClick={() =>
                 window.open(
-                  'https://drive.google.com/drive/u/1/folders/1SHMGIJ8A68kNu-JAfoNYcTrK7OYXOC3q',
+                  'https://drive.google.com/file/d/1S9esGcvYnjMRnbvpiOeRbbdj25JMoopq/view',
                   '_blank',
                 )
               }
