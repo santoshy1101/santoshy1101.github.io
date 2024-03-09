@@ -34,7 +34,7 @@ const About = () => {
 
         <div  className="flex items-center px-6 py-3 mt-5 text-white rounded-md cursor-pointer group w-fit bg-slate-600">
            
-        <a href="/Santosh_Yadav_Resume.pdf" download onClick={()=>window.open("https://drive.google.com/drive/u/1/folders/1SHMGIJ8A68kNu-JAfoNYcTrK7OYXOC3q","_blank" ) } >Resume</a>
+        <a href="/Santosh_Yadav_Resume.pdf" download onClick={()=>window.open("https://drive.google.com/file/d/1S9esGcvYnjMRnbvpiOeRbbdj25JMoopq/view","_blank" ) } >Resume</a>
         </div>
       </div>
 
