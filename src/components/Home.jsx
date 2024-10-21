@@ -25,11 +25,11 @@ const Home = () => {
           </p>
           <div className="flex items-center px-6 py-3 my-2 text-white rounded-md cursor-pointer group w-fit bg-slate-600 ">
             <a
-              href="/Santosh_Yadav_Resume.pdf"
+              href="/Santosh-Yadav-Resume.pdf"
               download
               onClick={() =>
                 window.open(
-                  'https://drive.google.com/file/d/1S9esGcvYnjMRnbvpiOeRbbdj25JMoopq/view',
+                  'https://drive.google.com/file/d/1-LErAfaYGxhIFfKOe-fZFpXZyETJdcLZ/view',
                   '_blank',
                 )
               }

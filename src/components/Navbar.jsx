@@ -32,7 +32,7 @@ const Navbar = () => {
     }     
     <li className='px-4 py-2 font-medium text-gray-500 capitalize duration-700 shadow-xl cursor-pointer hover:shadow-cyan-400 hover:rounded-lg hover:scale-105'
         >
-        <a href="/Santosh_Yadav_Resume.pdf" download onClick={()=>window.open("https://drive.google.com/file/d/1S9esGcvYnjMRnbvpiOeRbbdj25JMoopq/view","_blank" ) } >Resume</a>
+        <a href="/Santosh-Yadav-Resume.pdf" download onClick={()=>window.open("https://drive.google.com/file/d/1-LErAfaYGxhIFfKOe-fZFpXZyETJdcLZ/view","_blank" ) } >Resume</a>
     
         </li>   
     </ul>
